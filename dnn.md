@@ -1,0 +1,1 @@
+- [문과생도 이해하는 딥러닝](https://sacko.tistory.com/17)
